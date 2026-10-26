@@ -1,0 +1,8 @@
+# OS / Office temp files
+.DS_Store
+~$*
+
+# Original screenshots and zips: they show AWS account IDs and lab usernames.
+# Curated, cropped copies live in each project's images/ folder.
+_raw/
+*.zip
