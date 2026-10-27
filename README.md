@@ -200,6 +200,7 @@ Full reports: [Project 1, ABC Retail](01-retail-sales-etl/report/Retail_Data_Man
 ## Author
 
 **Lea Iradukunda**, Data Analyst
+**LinkedIn**, [Data Analyst](https://www.linkedin.com/in/lea-iradukunda/)
 
 *Open to data analyst opportunities. Feel free to connect.*
 <!-- Add your LinkedIn / email links here -->
